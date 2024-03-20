@@ -1,0 +1,160 @@
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.AssemblyReference.cache
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.AssemblyInfoInputs.cache
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.AssemblyInfo.cs
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.exe
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\config.json
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.deps.json
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.runtimeconfig.json
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.pdb
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\EasyNetQ.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Google.Protobuf.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\MySql.Data.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Npgsql.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.Extensions.DependencyInjection.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.Extensions.Hosting.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Serilog.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.CopyComplete
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\refint\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.pdb
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.genruntimeconfig.cache
+D:\WorkSpace\WorkSpace\Custom Joget\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\ref\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.exe
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\config.json
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.deps.json
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.runtimeconfig.json
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\OmniSyncHub.pdb
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\EasyNetQ.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Google.Protobuf.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\MySql.Data.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Npgsql.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.Extensions.DependencyInjection.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Quartz.Extensions.Hosting.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Serilog.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.ServiceProcess.ServiceController.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.AssemblyReference.cache
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.AssemblyInfoInputs.cache
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.AssemblyInfo.cs
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.csproj.CopyComplete
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\refint\OmniSyncHub.dll
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.pdb
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\OmniSyncHub.genruntimeconfig.cache
+D:\WorkSpace\WorkSpace\abc\joget_templates_cfs\client_omni\rync_omni\obj\Debug\net7.0\ref\OmniSyncHub.dll

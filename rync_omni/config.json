@@ -1,0 +1,42 @@
+{
+  "PostgreSQLConnection": "Password=123;Username=admin;Port=5432;Database=postgre;Host=127.0.0.1",
+  "MySQL": {
+    "connectstr": "server=127.0.0.1;port=3306;uid=root;pwd=123;database=db",
+    "maxPoolSize": 100
+  },
+  "RabbitMQ": {
+    "Hostname": [ "127.0.0.1" ],
+    "Port": 5672,
+    "username": "admin",
+    "password": "123",
+    "Queue_CIF": "cif_queue",
+    "Queue_RsyncData": "send_queue",
+    "Queue_ntf": "ntf_queue"
+  },
+  "RabbitMQ_MSB": {
+    "Hostname": [ "127.0.0.1" ],
+    "Port": 5672,
+    "username": "admin",
+    "password": "123",
+    "VirtualHost": "",
+    "Queue_CIF_Inbound": "cif_inbound",
+    "Queue_CIF_Outbound": "cif_outbound",
+    "Queue_Inbound": "message_inbound",
+    "Queue_Oubound": "message_outbound"
+  },
+  "CRM": {
+    "url": "http://localhost",
+    "api_id": "api_id",
+    "api_key": "api_key"
+  },
+  "Zendesk": {
+    "Hostname": "cloudamqp.com",
+    "VirtualHost": "cloud",
+    "username": "admin",
+    "password": "123",
+    "Queue_Inbound": "cloud_inbound",
+    "Queue_Oubound": "cloud_outbound",
+    "localPath": "Attachment"
+  },
+  "cron": "0 0/1 * * * ?"
+}
